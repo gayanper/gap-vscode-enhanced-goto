@@ -15,15 +15,15 @@
     "commands": [
       {
         "command": "gap.enhanced.goto.gotoProblemInFile",
-        "title": "Goto Problem in File"
+        "title": "Go to Problem in File"
       },
       {
         "command": "gap.enhanced.goto.gotoNextSymbol",
-        "title": "Goto next symbol in File"
+        "title": "Go to Next Symbol in File"
       },
       {
         "command": "gap.enhanced.goto.gotoPreviousSymbol",
-        "title": "Goto previous symbol in File"
+        "title": "Go to Previous Symbol in File"
       }
     ]
   },
