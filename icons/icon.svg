@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+    <!-- Background -->
+    <rect width="128" height="128" rx="16" fill="#252526" />
+
+    <!-- Magnifying Glass -->
+    <circle cx="50" cy="50" r="20" stroke="#61dafb" stroke-width="8" fill="none" />
+    <line x1="65" y1="65" x2="90" y2="90" stroke="#61dafb" stroke-width="8" stroke-linecap="round" />
+
+    <!-- Arrow -->
+    <line x1="96" y1="30" x2="70" y2="30" stroke="#61dafb" stroke-width="8" stroke-linecap="round" />
+    <line x1="85" y1="20" x2="96" y2="30" stroke="#61dafb" stroke-width="8" stroke-linecap="round" />
+    <line x1="85" y1="40" x2="96" y2="30" stroke="#61dafb" stroke-width="8" stroke-linecap="round" />
+
+    <!-- Code Blocks -->
+    <rect x="20" y="80" width="24" height="12" fill="#61dafb" />
+    <rect x="50" y="80" width="24" height="12" fill="#61dafb" />
+</svg>
