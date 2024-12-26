@@ -38,7 +38,7 @@ jobs:
 
     - name: Build Extenstion
       id: package
-      if: ${{ steps.agent.outcome == 'success' }}
+      if: ${{ steps.init.outcome == 'success' }}
       run: |
         vsce package
 
